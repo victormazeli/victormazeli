@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victor Mazeli<br><br>🎯 **DevOps Engineer | Cloud Security Enthusiast | Software Engineer **<br><br>I'm a passionate software engineer with a strong focus on **DevOps, Cloud Engineering, and Cybersecurity**. With years of hands-on experience building fintech solutions, SaaS platforms, and cloud-native infrastructure, I bridge the gap between development and operations with clean, scalable, and secure solutions.<br><br>
+# 👋 Hi, I'm Victor Mazeli<br><br>🎯 DevOps Engineer | Cloud Security Enthusiast | Software Engineer <br><br>I'm a passionate software engineer with a strong focus on DevOps, Cloud Engineering, and Cybersecurity. With years of hands-on experience building fintech solutions, SaaS platforms, and cloud-native infrastructure, I bridge the gap between development and operations with clean, scalable, and secure solutions.<br><br>
 
 
 # 💻 Tech Stack:
